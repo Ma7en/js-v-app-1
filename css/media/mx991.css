@@ -1,0 +1,32 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+html {
+    font-size: 55%;
+}
+
+
+/* start usage */
+.usage .row {
+    flex-direction: column;
+}
+
+.usage .row .divider {
+    display: none;
+}
+
+.usage .row .box-container .box {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+}
